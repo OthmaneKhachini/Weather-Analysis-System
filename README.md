@@ -1,4 +1,4 @@
-# Weather Data Analysis System — Project README
+# Weather Data Analysis System 
 
 > **An interactive Single Page Application (SPA) for meteorological data management, search, and dynamic visualization built with Vue 3 and Chart.js.**
 
